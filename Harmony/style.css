@@ -1,0 +1,92 @@
+
+.title  {
+    text-align: center;
+    width: 100px;
+    height: 50px;
+    position: absolute;
+    top: 0;
+    bottom: 90px;
+    left: 0;
+    right: 0;
+      
+    margin: auto;
+}
+
+.textfield {
+    float: right;
+    width: 92%;
+    height: 94%;
+    border-radius: 9px;
+    border: none;
+    
+    font-size: 15px;
+}
+
+body:not(.user-is-tabbing) button:focus,
+body:not(.user-is-tabbing) input:focus {
+  outline: none;
+}
+
+.search-field {
+    background: white;
+    border-radius: 10px;
+    box-shadow: 8px 8px 18px 4px rgba(0,0,0,0.2);
+    font-size: 15px;
+    border-color: rgba(0,0,0,0.2);
+    border-width: 2px;
+    border-style: solid;
+    width: 500px;
+    height: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+html {
+      background: url(wallpaper.jpg) no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+      overflow: hidden;
+      overflow-x: hidden;
+      overflow-y: hidden;
+    }
+
+body {
+    font-family: "Helvetica", "Arial";
+    color: white;
+}
+
+.center {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+      
+    margin: auto;
+}
+
+.VCenter {
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+
+    margin: auto;
+}
+
+.left {
+    float: left;
+    width: 50%;
+    text-align: right;
+}
+
+.right {
+    float: right;
+    width: 50%;
+}
