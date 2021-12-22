@@ -21,9 +21,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         if let url = URL(string: "https://wiktor.thedev.id/HarmonyVersion.txt") {
             do {
                 let currentVersionString = try String(contentsOf: url)
-                print(try String(contentsOf: url))
                 
-                let scanInteger = Scanner(string: currentVersionString)
+				let scanInteger = Scanner(string: currentVersionString)
                 let currentVersion = scanInteger.scanInt()
                 
                 if (currentVersion! > installedVersion) {

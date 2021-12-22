@@ -332,14 +332,15 @@
 				CODE_SIGN_ENTITLEMENTS = Harmony/Harmony.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 6;
-				DEVELOPMENT_TEAM = PT7ZH88SY7;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = DNFYV2TZ3T;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Harmony/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = thedev.wiktor.Harmony;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -354,14 +355,15 @@
 				CODE_SIGN_ENTITLEMENTS = Harmony/Harmony.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 6;
-				DEVELOPMENT_TEAM = PT7ZH88SY7;
+				CURRENT_PROJECT_VERSION = 7;
+				DEVELOPMENT_TEAM = DNFYV2TZ3T;
 				ENABLE_HARDENED_RUNTIME = YES;
 				INFOPLIST_FILE = Harmony/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
+				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = thedev.wiktor.Harmony;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
