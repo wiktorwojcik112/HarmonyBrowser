@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		ED3E52FC25DFFC3F0077302E /* SecurityController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3E52FB25DFFC3F0077302E /* SecurityController.swift */; };
+		ED54A5412773AEC20019785B /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = ED54A5402773AEC20019785B /* .gitignore */; };
 		ED54FDBB2551D2F1009A7E1F /* WindowController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED54FDBA2551D2F1009A7E1F /* WindowController.swift */; };
 		ED58775C2551A5FB007E3130 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED58775B2551A5FB007E3130 /* AppDelegate.swift */; };
 		ED58775E2551A5FB007E3130 /* BrowserController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED58775D2551A5FB007E3130 /* BrowserController.swift */; };
@@ -32,6 +33,7 @@
 
 /* Begin PBXFileReference section */
 		ED3E52FB25DFFC3F0077302E /* SecurityController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecurityController.swift; sourceTree = "<group>"; };
+		ED54A5402773AEC20019785B /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		ED54FDBA2551D2F1009A7E1F /* WindowController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WindowController.swift; sourceTree = "<group>"; };
 		ED5877582551A5FB007E3130 /* Harmony.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Harmony.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED58775B2551A5FB007E3130 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -88,6 +90,7 @@
 		ED58774F2551A5FB007E3130 = {
 			isa = PBXGroup;
 			children = (
+				ED54A5402773AEC20019785B /* .gitignore */,
 				ED58775A2551A5FB007E3130 /* Harmony */,
 				ED129C70255F067E0086AE9A /* Frameworks */,
 				ED5877592551A5FB007E3130 /* Products */,
@@ -175,6 +178,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ED5877602551A5FC007E3130 /* Assets.xcassets in Resources */,
+				ED54A5412773AEC20019785B /* .gitignore in Resources */,
 				ED5877632551A5FC007E3130 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
