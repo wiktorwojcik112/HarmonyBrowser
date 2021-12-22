@@ -16,7 +16,7 @@ class AppDelegate: NSObject, NSApplicationDelegate {
 
     
     @IBAction func checkForNewVersion(_ sender: NSMenuItem) {
-        let installedVersion = 6
+        let installedVersion = 7
         
         if let url = URL(string: "https://wiktor.thedev.id/HarmonyVersion.txt") {
             do {
